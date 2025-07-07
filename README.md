@@ -52,11 +52,6 @@ The goal is to assess whether higher education and income levels correlate with 
 - The **postgraduate education level** was associated with **smaller family sizes**
 - However, **postgraduates who were students** were more likely to report larger family sizes — possibly due to reporting family of origin (parents/siblings)
 
-### Model Interpretation
-
-- A postgraduate is **0.375× as likely** to report a large family compared to a graduate
-- A postgraduate student is **2.05× as likely** to report a large family compared to a graduate employee
-
 ### Diagnostics
 
 - **QQ Plot**: Mostly normal residuals, a few mild outliers
